@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -26,79 +26,6 @@
         "html_before": ""
       },
       "components": [
-        {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/15n-3-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15n-3-1654x2338-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/15n-4-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15n-4-1654x2338-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/15651654-2-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15651654-2-1654x2338-800x1131.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10004-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10004-2000x1414-800x566.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10001-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10001-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10002-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10002-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10003-800x1132.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10003-800x1132-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10005-800x1132.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10005-800x1132-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-0"
-        },
         {
           "_inherit": "menu",
           "_params": {
@@ -144,6 +71,79 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1414-800x566.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15n-3-1654x2338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15n-3-1654x2338-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15n-4-1654x2338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15n-4-1654x2338-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10001-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10001-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10002-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10002-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10003-800x1132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10003-800x1132-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10005-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10005-2000x2829-800x1132.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15651654-1-800x1131.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15651654-1-800x1131-800x1131.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6"
         }
       ]
     },
