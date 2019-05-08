@@ -5,7 +5,8 @@
     "theme": {
       "name": "purity",
       "title": "PurityM",
-      "styling": {}
+      "styling": {},
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
@@ -33,29 +34,29 @@
             "bgColor": "#efefef",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/15n-1-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15n-1-1654x2338-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15n-3-1654x2338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15n-3-1654x2338-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/15n-2-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15n-2-1654x2338-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15n-4-1654x2338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15n-4-1654x2338-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/15651654-1-1654x2338.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15651654-1-1654x2338-800x1131.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15651654-2-1654x2338.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15651654-2-1654x2338-800x1131.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1414-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10004-2000x1414.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10004-2000x1414-800x566.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
@@ -75,25 +76,18 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/10003-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10003-2000x2829-800x1132.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10003-800x1132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10003-800x1132-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/10004-2000x1414.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10004-2000x1414-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10005-800x1132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10005-800x1132-800x1132.jpg",
                 "alt": "",
                 "title": "",
                 "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/10005-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/10005-2000x2829-800x1132.jpg",
-                "alt": "",
-                "title": "",
-                "active": false
               }
             ]
           },
@@ -114,7 +108,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"C:\\Сайт\\Меню\\index.html\">Меню</a></li>",
@@ -169,7 +163,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"C:\\Сайт\\Меню\\index.html\">Меню</a></li>",
@@ -225,7 +219,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff",
+            "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"C:\\Сайт\\Меню\\index.html\">Меню</a></li>",
